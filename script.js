@@ -13,6 +13,6 @@ form.addEventListener('submit', (e) => {
 		resultDiv.innerHTML = 'Baby';
 		window.location.href = nextPageUrl; // Redirect to new page
 	} else {
-		resultDiv.innerHTML = 'Naa tue amr Boobi, na kothy amr boobi';
+		resultDiv.innerHTML = 'Naa tue amr Boobi na, kothy amr boobi?';
 	}
 });
